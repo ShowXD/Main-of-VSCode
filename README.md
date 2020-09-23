@@ -9,9 +9,19 @@
 ### Mithril Emmet
 * 使用簡短的語法產生繁複的內容
 例:<br>
-td*3<br>
-<td>
-<td>
-<td>
+```!```+[tab]
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
 
 ### open in browser
