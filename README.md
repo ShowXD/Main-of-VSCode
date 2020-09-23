@@ -1,9 +1,9 @@
 # EXTENSIONS
 
-## *HTML CSS Support
+- HTML CSS Support
 
-## * HTML Snippets
+- HTML Snippets
 
-## * Mithril Emmet
+- Mithril Emmet
 
-## * open in browser
+- open in browser
