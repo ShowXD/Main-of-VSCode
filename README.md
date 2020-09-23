@@ -8,6 +8,7 @@
 
 ### Mithril Emmet
 * 使用簡短的語法產生繁複的內容
-例:
+例:<br>
+```td*8
 
 ### open in browser
