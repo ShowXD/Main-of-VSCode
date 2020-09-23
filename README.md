@@ -1,17 +1,13 @@
 # EXTENSIONS
 
-* HTML CSS Support
+## HTML CSS Support
 <br>使 VSCode 支援 html 和 css。
 
-* HTML Snippets
+## HTML Snippets
 <br>完整的 html5 標籤。
 
-* Mithril Emmet
+## Mithril Emmet
 <br>使用簡短的語法產生繁複的內容
 <br>例:
-<br>/// td*3
-<td>
-<td>
-<td>
 
-* open in browser
+## open in browser
