@@ -8,6 +8,6 @@
 
 ### Mithril Emmet
 * 使用簡短的語法產生繁複的內容
-<br>例:
+例:
 
 ### open in browser
