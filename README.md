@@ -9,6 +9,9 @@
 ### Mithril Emmet
 * 使用簡短的語法產生繁複的內容
 例:<br>
-``` td*8
+td*3<br>
+<td>
+<td>
+<td>
 
 ### open in browser
