@@ -1,6 +1,6 @@
 # EXTENSIONS
 
-## * HTML CSS Support
+## *HTML CSS Support
 
 ## * HTML Snippets
 
