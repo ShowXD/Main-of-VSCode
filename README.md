@@ -26,3 +26,5 @@
 
 ### open in browser
 * 能夠直接滑鼠右鍵點擊預覽頁面。
+
+### Python
