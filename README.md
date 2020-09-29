@@ -28,3 +28,9 @@
 * 能夠直接滑鼠右鍵點擊預覽頁面。
 
 ### Python
+
+### SFTP
+
+#### 操作方法
+1. 按下F1，輸入SFTP
+2. 選擇SFTP configure
