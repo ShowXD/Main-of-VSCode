@@ -28,9 +28,13 @@
 * 能夠直接滑鼠右鍵點擊預覽頁面。
 
 ### Python
+* 使其支援Python語法
+
+### Code Runner
+* 支援各種語言在上面執行
 
 ### SFTP
-
+* 使其譨購遠端上傳伺服器檔案
 #### 操作方法
 1. 按下F1，輸入SFTP
 2. 選擇SFTP configure
