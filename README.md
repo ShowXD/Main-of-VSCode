@@ -37,4 +37,4 @@
 * 使其譨購遠端上傳伺服器檔案
 #### 操作方法
 1. 按下F1，輸入SFTP
-2. 選擇SFTP configure
+2. 選擇SFTP configure，就會生成設定檔
