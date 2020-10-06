@@ -9,7 +9,7 @@
 ### Mithril Emmet
 * 使用簡短的語法產生繁複的內容
 例:<br>
-```!```+[tab]
+```!```+[enter]
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -38,3 +38,6 @@
 #### 操作方法
 1. 按下F1，輸入SFTP
 2. 選擇SFTP configure，就會生成設定檔
+
+### Live Server
+* 預覽網頁時以本地端server方式開啟
