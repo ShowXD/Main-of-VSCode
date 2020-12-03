@@ -41,3 +41,9 @@
 
 ### Live Server
 * 預覽網頁時以本地端server方式開啟
+
+### C/C++
+### Composer
+### Jupyter
+### PHP Debug
+### VS Code SFTP
